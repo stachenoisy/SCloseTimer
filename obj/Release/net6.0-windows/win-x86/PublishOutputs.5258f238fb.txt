@@ -1,0 +1,2 @@
+C:\Users\omers\Desktop\SCloseTimer\SCloseTimer\bin\Release\net6.0-windows\publish\win-x86\SCloseTimer.pdb
+C:\Users\omers\Desktop\SCloseTimer\SCloseTimer\bin\Release\net6.0-windows\publish\win-x86\SCloseTimer.exe

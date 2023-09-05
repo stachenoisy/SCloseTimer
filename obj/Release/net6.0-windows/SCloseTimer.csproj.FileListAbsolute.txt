@@ -1,0 +1,17 @@
+C:\Users\omers\Desktop\SCloseTimer\SCloseTimer\obj\Release\net6.0-windows\SCloseTimer.Form1.resources
+C:\Users\omers\Desktop\SCloseTimer\SCloseTimer\obj\Release\net6.0-windows\SCloseTimer.Properties.Resources.resources
+C:\Users\omers\Desktop\SCloseTimer\SCloseTimer\obj\Release\net6.0-windows\SCloseTimer.csproj.GenerateResource.cache
+C:\Users\omers\Desktop\SCloseTimer\SCloseTimer\obj\Release\net6.0-windows\SCloseTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\Desktop\SCloseTimer\SCloseTimer\obj\Release\net6.0-windows\SCloseTimer.AssemblyInfoInputs.cache
+C:\Users\omers\Desktop\SCloseTimer\SCloseTimer\obj\Release\net6.0-windows\SCloseTimer.AssemblyInfo.cs
+C:\Users\omers\Desktop\SCloseTimer\SCloseTimer\obj\Release\net6.0-windows\SCloseTimer.csproj.CoreCompileInputs.cache
+C:\Users\omers\Desktop\SCloseTimer\SCloseTimer\bin\Release\net6.0-windows\SCloseTimer.exe
+C:\Users\omers\Desktop\SCloseTimer\SCloseTimer\bin\Release\net6.0-windows\SCloseTimer.deps.json
+C:\Users\omers\Desktop\SCloseTimer\SCloseTimer\bin\Release\net6.0-windows\SCloseTimer.runtimeconfig.json
+C:\Users\omers\Desktop\SCloseTimer\SCloseTimer\bin\Release\net6.0-windows\SCloseTimer.dll
+C:\Users\omers\Desktop\SCloseTimer\SCloseTimer\bin\Release\net6.0-windows\SCloseTimer.pdb
+C:\Users\omers\Desktop\SCloseTimer\SCloseTimer\obj\Release\net6.0-windows\SCloseTimer.dll
+C:\Users\omers\Desktop\SCloseTimer\SCloseTimer\obj\Release\net6.0-windows\refint\SCloseTimer.dll
+C:\Users\omers\Desktop\SCloseTimer\SCloseTimer\obj\Release\net6.0-windows\SCloseTimer.pdb
+C:\Users\omers\Desktop\SCloseTimer\SCloseTimer\obj\Release\net6.0-windows\SCloseTimer.genruntimeconfig.cache
+C:\Users\omers\Desktop\SCloseTimer\SCloseTimer\obj\Release\net6.0-windows\ref\SCloseTimer.dll
